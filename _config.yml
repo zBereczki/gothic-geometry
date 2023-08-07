@@ -18,7 +18,7 @@ author: Bereczki, Zoltán
 email: bereczki.zoltan at eng.unideb.hu
 description: > # this means to ignore newlines until "baseurl:"
   A project of Bereczki Zoltán PhD, adjunct professor, University of Debrecen, Department of Civil Engineering
-baseurl: "/generative-gothic" # the subpath of your site, e.g. /blog
+baseurl: "/gothic-geometry" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: z_bereczki
 github_username:  zBereczki
